@@ -4,7 +4,7 @@
 
 # Gitlab CI/CD:
 - ## Documets:
-    <a href="https://docs.gitlab.com/development/cicd/"> gitlab doc </a>
+    - <a href="https://docs.gitlab.com/development/cicd/"> gitlab doc </a>
 - ## Links
     - <a href= "https://docs.gitlab.com/ci/pipelines/pipeline_architectures/"> Pipeline architecture </a>
     - <a href="https://medium.com/@sydasif78/understanding-gitlab-ci-cd-architecture-be5d4d9155da"> GitLab architecture </a>
